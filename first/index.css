@@ -1,0 +1,37 @@
+
+header {
+    background-color: rgb(52,52,52);
+    width: 100vw;
+    height: 20vh;
+}
+
+#li1 {
+    float: left;
+    width: 20vw;
+    height: 80vh;
+    background-color: rgb(207, 207, 207);
+
+}
+
+#li3 {
+    float: right;
+    width: 20vw;
+    height: 80vh;
+    background-color: rgb(207, 207, 207);
+    
+}
+
+#li2 {
+    background-color: rgb(235, 235, 235);
+    float: left;
+    width: 60vw;
+    height: 70vh;
+
+}
+
+footer {
+    background-color: rgb(26, 26, 26);
+    height: 10vh;
+    width: 60vw;
+    float: left;
+}

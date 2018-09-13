@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(206, 206, 206);
+    height: 100px;
+    width: 1000px;
+    margin: auto;   
+}
+.box{
+    background-color: rgb(60, 122, 220); 
+    height: 80px;
+    width: 80px;
+    margin: 10px 10px 10px 20px;
+    float: left;
+   
+
+}
+
+.main{
+    margin: 10px auto;
+    padding: 50px 50px;
+    text-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    height: 230px;
+    width: 1000px;
+}
+/* p {
+    margin: 30px auto;
+} */
+
+li{
+    height:115px;
+    width: 1000px;
+    margin: auto;
+}
+#BL{
+    background-color: rgb(60, 122, 220); 
+}
+
+#GR {
+    background-color: rgb(70, 224, 181); 
+}
+
+#GR2 {
+    background-color: rgb(171, 231, 115); 
+}
+
+#YL {
+        background-color: rgb(246, 229, 24); 
+}
